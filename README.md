@@ -8,7 +8,7 @@ MATERIALS:
  * Blynk Arduino Library 
  * Magnetic Switch Sensor 
  * Bread Board 
- *L.E.D ( visual representation) 
+ * L.E.D ( visual representation) 
  
  First Step: 
   * Get the Blynk App in phone  
